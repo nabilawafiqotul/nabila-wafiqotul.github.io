@@ -1,11 +1,11 @@
-## Portfolio
+## Portofolio
 
 ---
 
 ### Category Name 1 
 
 [Monthly GMV Year 2019 - Breakdown by Brand](/sample_page)
-<img src="Screenshot(709).png?raw=true"/>
+<img src="Screenshot (709).png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
