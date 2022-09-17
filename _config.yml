@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Nabila Wafiqotul Azizah # your name (or website title) here
+logo: "/images/fiqo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Seorang mahasiswi yang sedang menempuh pendidikan di UPN "Veteran" Jawa Timur dengan mengambil jurusan teknik informatika. Sejalan dengan itu, saat ini saya sedang melaksanakan riset bersama dosen mengenai robot terbang dan robot kapal. Selain itu, saya juga menjadi seorang guru les maupun privat di bidang perhitungan dan ilmu pengetahuan terpadu tingkat SMA dan SD.<br>
+
+  <br>Saya juga mempunyai minat yang tinggi di bidang perhitungan dan teknologi khususnya robotika dan data science. Minat saya itu didasari atas peran matematika pada bidang teknologi mempunyai peran yang krusial, sehingga tidak bisa dipisahkan antara satu dengan yang lain.<br>
+  <a href="https://www.linkedin.com/in/nabila-wafiqotul-1957111b9/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/nabilawafiqotul">View My Github</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
